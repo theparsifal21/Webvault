@@ -29,3 +29,6 @@ Neutral charcoal surfaces with retained bronze accents; updated app icon and off
 
 ## v1.0.2
 Updated wordmark to RELIC. with tighter letter spacing.
+
+## v1.0.3
+Redeploy updated wordmark and refresh offline cache.
