@@ -32,3 +32,6 @@ Updated wordmark to RELIC. with tighter letter spacing.
 
 ## v1.0.3
 Redeploy updated wordmark and refresh offline cache.
+
+## v1.0.4
+Redesigned bottom navigation with outline icons, compact labels, bronze active state and safe-area spacing.
