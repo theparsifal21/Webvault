@@ -1,4 +1,4 @@
-# RELIC — v1.0.0
+# RELIC — v1.0.1
 
 **Collect. Organize. Preserve.**
 
@@ -23,3 +23,6 @@ Enable GitHub Pages from `main`, `/ (root)`. Open the HTTPS site to install on s
 
 ## Limitations
 Data is stored locally in the browser; export backups regularly. Browser storage is limited. Automatic issue database and image recognition are not implemented. Live deployment and installation are not verified.
+
+## v1.0.1
+Neutral charcoal surfaces with retained bronze accents; updated app icon and offline cache.
