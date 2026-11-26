@@ -1182,7 +1182,8 @@
     "photo": "",
     "price": "",
     "value": "",
-    "notes": "Draft catalogue — verify issue and storyline."
+    "notes": "Draft catalogue — verify issue and storyline.",
+    "originalPrice": 1290
   },
   {
     "id": "kingpin-ahp-80",
@@ -1197,7 +1198,8 @@
     "photo": "",
     "price": "",
     "value": "",
-    "notes": "Draft catalogue — verify issue and storyline."
+    "notes": "Draft catalogue — verify issue and storyline.",
+    "originalPrice": 1290
   },
   {
     "id": "kingpin-ahp-81",
@@ -1212,7 +1214,8 @@
     "photo": "",
     "price": "",
     "value": "",
-    "notes": "Draft catalogue — verify issue and storyline."
+    "notes": "Draft catalogue — verify issue and storyline.",
+    "originalPrice": 1290
   },
   {
     "id": "kingpin-ahp-82",
@@ -1227,7 +1230,8 @@
     "photo": "",
     "price": "",
     "value": "",
-    "notes": "Draft catalogue — verify issue and storyline."
+    "notes": "Draft catalogue — verify issue and storyline.",
+    "originalPrice": 1290
   },
   {
     "id": "kingpin-ahp-83",
@@ -1242,7 +1246,8 @@
     "photo": "",
     "price": "",
     "value": "",
-    "notes": "Draft catalogue — verify issue and storyline."
+    "notes": "Draft catalogue — verify issue and storyline.",
+    "originalPrice": 1290
   },
   {
     "id": "kingpin-ahp-84",
@@ -1257,7 +1262,8 @@
     "photo": "",
     "price": "",
     "value": "",
-    "notes": "Draft catalogue — verify issue and storyline."
+    "notes": "Draft catalogue — verify issue and storyline.",
+    "originalPrice": 1290
   },
   {
     "id": "kingpin-ahp-85",
@@ -1272,7 +1278,8 @@
     "photo": "",
     "price": "",
     "value": "",
-    "notes": "Draft catalogue — verify issue and storyline."
+    "notes": "Draft catalogue — verify issue and storyline.",
+    "originalPrice": 1290
   },
   {
     "id": "kingpin-ahp-86",
@@ -1287,7 +1294,8 @@
     "photo": "",
     "price": "",
     "value": "",
-    "notes": "Draft catalogue — verify issue and storyline."
+    "notes": "Draft catalogue — verify issue and storyline.",
+    "originalPrice": 1290
   },
   {
     "id": "kingpin-ahp-87",
@@ -1302,7 +1310,8 @@
     "photo": "",
     "price": "",
     "value": "",
-    "notes": "Draft catalogue — verify issue and storyline."
+    "notes": "Draft catalogue — verify issue and storyline.",
+    "originalPrice": 1290
   },
   {
     "id": "kingpin-ahp-88",
@@ -1317,7 +1326,8 @@
     "photo": "",
     "price": "",
     "value": "",
-    "notes": "Draft catalogue — verify issue and storyline."
+    "notes": "Draft catalogue — verify issue and storyline.",
+    "originalPrice": 1290
   },
   {
     "id": "kingpin-ahp-89",
@@ -1333,7 +1343,8 @@
     "price": "",
     "value": "",
     "notes": "Release identifier follows six-issue annual numbering; publication unverified.",
-    "release": "2026/5"
+    "release": "2026/5",
+    "originalPrice": 1290
   },
   {
     "id": "kingpin-ahp-90",
@@ -1349,7 +1360,8 @@
     "price": "",
     "value": "",
     "notes": "Release identifier follows six-issue annual numbering; publication unverified.",
-    "release": "2026/6"
+    "release": "2026/6",
+    "originalPrice": 1290
   },
   {
     "id": "kingpin-ahp-2013",
