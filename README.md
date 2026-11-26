@@ -38,3 +38,6 @@ Redesigned bottom navigation with outline icons, compact labels, bronze active s
 
 ## v1.0.5
 Removed LEGO and Hot Wheels from the active collection interface. Existing records remain in local storage and JSON backups for future migration.
+
+## v1.0.6
+Removed the Wishlist tab and status from the active interface. Existing wishlist records remain in backups. Bottom navigation now has three tabs.
