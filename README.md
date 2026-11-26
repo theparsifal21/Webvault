@@ -41,3 +41,6 @@ Removed LEGO and Hot Wheels from the active collection interface. Existing recor
 
 ## v1.0.6
 Removed the Wishlist tab and status from the active interface. Existing wishlist records remain in backups. Bottom navigation now has three tabs.
+
+## v1.0.7
+Permanently removes legacy wishlist records from local storage on launch and excludes them when restoring old backups. LEGO and Hot Wheels records remain preserved.
