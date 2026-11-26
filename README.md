@@ -1,2 +1,25 @@
-# RELIC v1.0.0
-Standalone physical collection manager. Upload all files to the root of a GitHub Pages repository and enable Pages. Open the HTTPS site to install the PWA. No backend or NEXUS dependency. Supports manual cataloguing, photos, ownership, wishlist, missing items, search, HUF statistics and JSON backups. Data is stored locally in the browser; export backups regularly. No automatic issue database or image recognition yet. Browser storage is limited. Offline support begins after successful service worker installation.
+# RELIC — v1.0.0
+
+**Collect. Organize. Preserve.**
+
+Standalone physical collection manager for comics, LEGO and Hot Wheels. No NEXUS dependency or backend.
+
+[Open RELIC](https://theparsifal21.github.io/Relic/)
+
+## Features
+- Manual cataloguing, photos, ownership and missing-item tracking.
+- Wishlist, search and HUF collection statistics.
+- JSON backup and restore.
+- Responsive interface and PWA configuration.
+
+## Files
+- `index.html`: application
+- `manifest.json`: installation configuration
+- `sw.js`: offline caching
+- `icon.svg`: scalable app icon
+
+## Deployment
+Enable GitHub Pages from `main`, `/ (root)`. Open the HTTPS site to install on supported browsers. Offline support begins after successful service worker installation.
+
+## Limitations
+Data is stored locally in the browser; export backups regularly. Browser storage is limited. Automatic issue database and image recognition are not implemented. Live deployment and installation are not verified.
