@@ -1,0 +1,29 @@
+name: Update Kingpin catalogue
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '17 */6 * * *'
+permissions:
+  contents: write
+concurrency:
+  group: kingpin-catalog
+  cancel-in-progress: false
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: pip install requests beautifulsoup4
+      - run: python update-catalog.py
+      - name: Publish catalogue
+        run: |
+          git config user.name "relic-catalog-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add kingpin-catalog.json
+          if ! git diff --cached --quiet; then
+            git commit -m "Update Kingpin issue catalogue and covers"
+            git push
+          fi
