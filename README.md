@@ -2,7 +2,7 @@
 
 **Collect. Organize. Preserve.**
 
-Standalone physical collection manager for comics, LEGO and Hot Wheels. No NEXUS dependency or backend.
+Standalone physical collection manager for comics, LEGO and Hot Wheels. No backend required.
 
 [Open RELIC](https://theparsifal21.github.io/Relic/)
 
