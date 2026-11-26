@@ -1,4 +1,4 @@
-const CACHE = 'relic-preview-v1.2.8';
+const CACHE = 'relic-preview-v1.2.9';
 const ASSETS = [
   './index.html',
   './manifest.json',
