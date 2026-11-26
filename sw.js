@@ -1,10 +1,9 @@
-const CACHE = 'relic-preview-v1.1.0.1';
+const CACHE = 'relic-preview-v1.1.0.2';
 const ASSETS = [
   './index.html',
   './manifest.json',
   './kingpin-catalog.json',
-  './icon-192.png',
-  './icon-512.png'
+  './icon.svg'
 ];
 
 self.addEventListener('install', e => {
