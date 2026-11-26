@@ -1,9 +1,9 @@
-const CACHE = 'relic-preview-v1.4.0';
+const CACHE = 'relic-preview-v1.4.1';
 const ASSETS = [
   './index.html',
   './manifest.json',
   './kingpin-catalog.json',
-  './icon.svg'
+  './webvault-icon-v2.svg'
 ];
 
 self.addEventListener('install', e => {
