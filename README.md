@@ -2,7 +2,7 @@
 
 **Collect. Organize. Preserve.**
 
-Standalone physical collection manager for comics, LEGO and Hot Wheels. No backend required.
+Standalone physical collection manager for comics. No backend required.
 
 [Open RELIC](https://theparsifal21.github.io/Relic/)
 
@@ -35,3 +35,6 @@ Redeploy updated wordmark and refresh offline cache.
 
 ## v1.0.4
 Redesigned bottom navigation with outline icons, compact labels, bronze active state and safe-area spacing.
+
+## v1.0.5
+Removed LEGO and Hot Wheels from the active collection interface. Existing records remain in local storage and JSON backups for future migration.
