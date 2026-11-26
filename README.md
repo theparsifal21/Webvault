@@ -1,0 +1,2 @@
+# RELIC v1.0.0
+Standalone physical collection manager. Upload all files to the root of a GitHub Pages repository and enable Pages. Open the HTTPS site to install the PWA. No backend or NEXUS dependency. Supports manual cataloguing, photos, ownership, wishlist, missing items, search, HUF statistics and JSON backups. Data is stored locally in the browser; export backups regularly. No automatic issue database or image recognition yet. Browser storage is limited. Offline support begins after successful service worker installation.
